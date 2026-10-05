@@ -1,0 +1,22 @@
+# Environment & Secrets
+.env
+.env.*
+*.pem
+*.p12
+*.pfx
+*credentials*.json
+*key*.json
+*secret*.json
+*token*.json
+auth.json
+id_rsa
+id_ed25519
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+*.metadata.json
